@@ -1,0 +1,10 @@
+wget https://www.involvesoft.com/wp-content/themes/involvesoft/js/jquery-1.11.0.min.js
+wget https://www.involvesoft.com/wp-content/themes/involvesoft/js/jquery-migrate-1.2.1.min.js
+wget https://www.involvesoft.com/wp-content/themes/involvesoft/js/jquery.bootstrap.min.js
+wget https://www.involvesoft.com/wp-content/themes/involvesoft/js/jquery.scripts.min.js
+wget https://www.involvesoft.com/wp-content/themes/involvesoft/js/jquery.isotope.min.js
+wget https://www.involvesoft.com/wp-content/themes/involvesoft/js/jquery.magnific-popup.min.js
+wget https://www.involvesoft.com/wp-content/themes/involvesoft/js/jquery.countTo.js
+wget https://www.involvesoft.com/wp-content/themes/involvesoft/js/include.js
+wget https://www.involvesoft.com/wp-content/themes/involvesoft/js/retina.min.js
+wget https://www.involvesoft.com/wp-includes/js/wp-embed.min.js
